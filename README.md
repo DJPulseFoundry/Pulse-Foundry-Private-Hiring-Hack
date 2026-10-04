@@ -85,6 +85,14 @@ The rows above are examples only. The real files will have the same structure, b
 - Your code
 - A short written summary of your key decisions and why you made them
 
+### How to Submit
+
+Submissions are made on Pulse, not DevPost.
+
+1. Go to the [Pulse Foundry Private Hiring Hack page](https://pulsefoundry.ai/hackathons/6ac17ad8073be40e3dbbb08b).
+2. Log in with the same email you used to register for the event.
+3. Submit your project.
+
 ## The Judging Session
 
 At judging, we'll give you the company's real files in the formats above. You'll ingest them into your source of truth live and show us what your system flags.
